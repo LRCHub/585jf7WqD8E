@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "桃太郎",
+  "base_artist": "水曜日のカンパネラ",
+  "createdAt": "2026-02-26T16:01:31.029153Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Momotarō [桃太郎]",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/01_Momotarō_[桃太郎]_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桃太郎",
+      "artist": "WEDNESDAY CAMPANELLA",
+      "has_synced": true,
+      "path": "select/02_桃太郎_WEDNESDAY_CAMPANELLA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "桃太郎",
+      "artist": "Suiyoubi no Campanella",
+      "has_synced": true,
+      "path": "select/03_桃太郎_Suiyoubi_no_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Peach Boy 桃太郎",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/04_Peach_Boy_桃太郎_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桃太郎",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_01_桃太郎_水曜日のカンパネラ.txt"
+    }
+  ]
+}
